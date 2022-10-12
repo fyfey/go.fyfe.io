@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <meta name="go-import" content="go.fyfe.io/caddy-dns git https://github.com/fyfey/caddy-dns">
+        <meta http-equiv="refresh" content="0;URL='https://github.com/fyfey/caddy-dns'">
+    </head>
+    <body>
+        Redirecting you to the <a href="https://github.com/fyfey/caddy-dns">project page</a>...
+    </body>
+</html>
